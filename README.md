@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
