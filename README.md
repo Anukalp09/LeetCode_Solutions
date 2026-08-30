@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0414-third-maximum-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
