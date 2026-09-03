@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -80,4 +81,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
