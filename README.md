@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
