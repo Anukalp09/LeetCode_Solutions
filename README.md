@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [1025-divisor-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
