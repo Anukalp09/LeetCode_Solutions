@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
+| [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0055-jump-game) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
