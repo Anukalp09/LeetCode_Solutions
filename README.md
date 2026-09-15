@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0319-bulb-switcher](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
