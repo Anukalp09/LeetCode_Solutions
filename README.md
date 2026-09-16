@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3271-hash-divided-string) |
 ## Sorting
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
