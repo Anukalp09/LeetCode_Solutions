@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
