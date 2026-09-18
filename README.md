@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
+| [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
