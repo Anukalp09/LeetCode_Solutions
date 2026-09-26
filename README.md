@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1051-height-checker) |
+| [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
