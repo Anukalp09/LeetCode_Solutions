@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0859-buddy-strings](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [2490-circular-sentence](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2490-circular-sentence) |
 | [3271-hash-divided-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
