@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0859-buddy-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2490-circular-sentence](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2490-circular-sentence) |
 | [3271-hash-divided-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -205,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
