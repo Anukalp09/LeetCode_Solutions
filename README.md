@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1051-height-checker) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Geometry
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
 ## Bubble Sort
