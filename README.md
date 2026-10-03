@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1528-shuffle-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
