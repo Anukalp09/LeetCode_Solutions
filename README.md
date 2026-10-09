@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0904-fruit-into-baskets](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0859-buddy-strings](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0859-buddy-strings) |
+| [0904-fruit-into-baskets](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Design
 |  |
