@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-buy-two-chocolates](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
