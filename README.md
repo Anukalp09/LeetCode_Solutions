@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
