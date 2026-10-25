@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2057-smallest-index-with-equal-value](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
