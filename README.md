@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2418-sort-the-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2418-sort-the-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2418-sort-the-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2490-circular-sentence) |
 | [3271-hash-divided-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
