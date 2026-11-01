@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1051-height-checker) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1025-divisor-game) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1323-maximum-69-number) |
 | [1925-count-square-sum-triples](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
