@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [1103-distribute-candies-to-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1323-maximum-69-number) |
 | [1925-count-square-sum-triples](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
