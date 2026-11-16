@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
