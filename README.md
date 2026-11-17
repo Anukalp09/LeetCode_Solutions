@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3174-clear-digits) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2490-circular-sentence) |
 | [3174-clear-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3174-clear-digits) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
