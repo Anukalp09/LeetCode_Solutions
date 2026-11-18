@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1603-design-parking-system](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
