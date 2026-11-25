@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -345,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Anukalp09/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
